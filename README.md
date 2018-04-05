@@ -1,9 +1,7 @@
-*** this is a work in progress ***
-
-
 # AnyIDE
 
-AnyIDE is a basic but highly versatile IDE. Although presets are provided, it can work with any installed compiler. This is done via the use of user defined terminal commands. Syntax highlighting for a new language can also be defined by users.
+AnyIDE is a basic but highly versatile IDE. Although presets are provided, it can work with any installed compiler. This is done via the use of user defined terminal commands. Syntax highlighting for a new language can also be defined by users. *currently a work in progress*
+
 
 ### Prerequisites
 
@@ -14,9 +12,11 @@ Java 8
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
+
 ## Authors
 
-* **Saud Fatayerji** - *Initial work* 
+* **Saud Fatayerji**
+
 
 ## License
 
